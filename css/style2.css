@@ -7,6 +7,7 @@ img {vertical-align: middle;}
   margin: auto;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
 }
 .slideshow_img {
     margin: 0 auto;
