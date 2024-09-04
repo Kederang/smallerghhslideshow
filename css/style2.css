@@ -8,6 +8,8 @@ img {vertical-align: middle;}
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
+  max-width: 100%;
 }
 .slideshow_img {
     margin: 0 auto;
